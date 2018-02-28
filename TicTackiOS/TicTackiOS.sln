@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicTackiOS", "TicTackiOS\TicTackiOS.csproj", "{5E68A262-063A-4107-BF9F-A0D4204AE07E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhone = Debug|iPhone
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E68A262-063A-4107-BF9F-A0D4204AE07E}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{5E68A262-063A-4107-BF9F-A0D4204AE07E}.Debug|iPhone.Build.0 = Debug|iPhone
+		{5E68A262-063A-4107-BF9F-A0D4204AE07E}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{5E68A262-063A-4107-BF9F-A0D4204AE07E}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{5E68A262-063A-4107-BF9F-A0D4204AE07E}.Release|iPhone.ActiveCfg = Release|iPhone
+		{5E68A262-063A-4107-BF9F-A0D4204AE07E}.Release|iPhone.Build.0 = Release|iPhone
+		{5E68A262-063A-4107-BF9F-A0D4204AE07E}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{5E68A262-063A-4107-BF9F-A0D4204AE07E}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8657D515-A70E-46EA-8897-CEE5606C0C8E}
+	EndGlobalSection
+EndGlobal
